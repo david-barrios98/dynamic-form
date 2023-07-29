@@ -5,9 +5,6 @@ import "./FourStep.css";
 import {
     Col,
     Container,
-    FloatingLabel,
-    Form,
-    Modal,
     Row
 } from "react-bootstrap";
 import Resume from "../Resume";
